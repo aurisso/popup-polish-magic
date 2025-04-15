@@ -39,7 +39,7 @@ const PricingCard = () => {
             <span className="text-4xl font-bold text-gray-900">$2.85</span>
           </div>
           <Button className="mt-6 w-full bg-gradient-to-r from-blue-600 to-indigo-600 py-6 text-lg font-semibold transition-transform hover:scale-[1.02]">
-            Choose This Plan
+            Continue
           </Button>
         </div>
 
