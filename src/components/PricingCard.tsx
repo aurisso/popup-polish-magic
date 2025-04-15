@@ -26,7 +26,7 @@ const PricingCard = () => {
       <Card className="w-full max-w-md overflow-hidden bg-white p-6 shadow-lg transition-all duration-300 hover:shadow-xl sm:p-8">
         <div className="text-center">
           <h2 className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-3xl font-bold text-transparent">
-            Pricing Plan
+            Upgrade to ChatBot Pro
           </h2>
           <p className="mt-2 text-gray-600">
             Unlock the full potential of Chatbot Pro
